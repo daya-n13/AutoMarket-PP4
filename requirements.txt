@@ -9,9 +9,14 @@ django-widget-tweaks==1.4.12
 djangorestframework==3.14.0
 gunicorn==21.2.0
 jmespath==1.0.1
+packaging==25.0
 Pillow==10.0.0
 psycopg2==2.9.6
+python-dateutil==2.9.0.post0
+pytz==2025.2
 s3transfer==0.6.1
+setuptools==79.0.0
+six==1.17.0
 sqlparse==0.4.4
 urllib3==1.26.16
 whitenoise==6.5.0
