@@ -75,7 +75,7 @@ AutoMarket is a full stack project allowing users to postlistings with their veh
 ### User Stories
 
 1. As a developer I can set up a new Django project so that I can create the project's structure
-2. As a developer I can connect database and media storage so that the user's stored data is stored successfully
+2. As a developer I can connect database and media storage so that the user's stored data is stored successfully.
 3. As a developer I can deploy the application early so that I can confirm that the initial setup is working and can continue testing the application during development
 4. As a developer I can create wireframes so that the layout of the website is clear for desktop and mobile
 5. As a user I want the website to be responsive so I can view it on my mobile
